@@ -6,10 +6,9 @@ import Inbox from './app/inbox'
 
 
 export default class App extends React.Component {
-    
     render(){
       return(
-        <Inbox />
+        <Home />
       );
     }
 }
